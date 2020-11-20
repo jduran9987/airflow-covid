@@ -10,7 +10,7 @@ services:
     ports:
       - '5432:5432'
     volumes:
-      - ./data/postgres:/var/lib/postgresql/data
+      - ./db/postgres:/var/lib/postgresql/data
 
   scheduler:
     image: apache/airflow:1.10.10
@@ -43,4 +43,5 @@ services:
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
-      - ./scripts:/opt/airflow/scripts 
+      - ./scripts:/opt/airflow/scripts
+      - ./data:/opt/airflow/data
