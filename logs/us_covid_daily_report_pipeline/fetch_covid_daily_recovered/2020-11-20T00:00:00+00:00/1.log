@@ -1,0 +1,21 @@
+[2020-11-21 00:00:04,052] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: us_covid_daily_report_pipeline.fetch_covid_daily_recovered 2020-11-20T00:00:00+00:00 [queued]>
+[2020-11-21 00:00:04,134] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: us_covid_daily_report_pipeline.fetch_covid_daily_recovered 2020-11-20T00:00:00+00:00 [queued]>
+[2020-11-21 00:00:04,137] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-11-21 00:00:04,145] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-11-21 00:00:04,146] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-11-21 00:00:04,200] {taskinstance.py:900} INFO - Executing <Task(BashOperator): fetch_covid_daily_recovered> on 2020-11-20T00:00:00+00:00
+[2020-11-21 00:00:04,206] {standard_task_runner.py:53} INFO - Started process 1856 to run task
+[2020-11-21 00:00:04,502] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: us_covid_daily_report_pipeline.fetch_covid_daily_recovered 2020-11-20T00:00:00+00:00 [running]> 5fdb493b75fa
+[2020-11-21 00:00:04,599] {bash_operator.py:82} INFO - Tmp dir root location: 
+ /tmp
+[2020-11-21 00:00:04,603] {bash_operator.py:105} INFO - Temporary script location: /tmp/airflowtmpxus1tafv/fetch_covid_daily_recovered_j8irj1u
+[2020-11-21 00:00:04,609] {bash_operator.py:115} INFO - Running command: curl -o /opt/airflow/data/recovered_20201120.json         --request GET 	    --url https://covid1910.p.rapidapi.com/data/confirmed/province/date/11-20-2020 	    --header 'x-rapidapi-host: covid1910.p.rapidapi.com' 	    --header 'x-rapidapi-key: None'
+[2020-11-21 00:00:04,624] {bash_operator.py:122} INFO - Output:
+[2020-11-21 00:00:04,642] {bash_operator.py:126} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2020-11-21 00:00:04,644] {bash_operator.py:126} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2020-11-21 00:00:04,785] {bash_operator.py:126} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100    31  100    31    0     0    216      0 --:--:-- --:--:-- --:--:--   216
+[2020-11-21 00:00:04,789] {bash_operator.py:130} INFO - Command exited with return code 0
+[2020-11-21 00:00:04,837] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=us_covid_daily_report_pipeline, task_id=fetch_covid_daily_recovered, execution_date=20201120T000000, start_date=20201121T000004, end_date=20201121T000004
+[2020-11-21 00:00:13,926] {logging_mixin.py:112} INFO - [2020-11-21 00:00:13,926] {local_task_job.py:103} INFO - Task exited with return code 0
