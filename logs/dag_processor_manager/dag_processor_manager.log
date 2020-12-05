@@ -2147,3 +2147,85 @@ File Path                                              PID  Runtime      # DAGs 
 [2020-12-05 06:26:21,598] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:21:21.598679+00:00
 [2020-12-05 06:26:31,664] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
 [2020-12-05 06:26:31,668] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:21:31.668181+00:00
+[2020-12-05 06:26:41,749] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:26:41,753] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:21:41.752903+00:00
+[2020-12-05 06:26:41,768] {dag_processing.py:1033} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/us_covid_daily_report_pipeline.py   3827  0.00s             0           0  1.02s           2020-12-05T06:26:41
+================================================================================
+[2020-12-05 06:26:51,844] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:26:51,847] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:21:51.847187+00:00
+[2020-12-05 06:27:01,894] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:27:01,896] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:22:01.896774+00:00
+[2020-12-05 06:27:11,969] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:27:11,972] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:22:11.972455+00:00
+[2020-12-05 06:27:11,988] {dag_processing.py:1033} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/us_covid_daily_report_pipeline.py   3977  0.00s             0           0  1.02s           2020-12-05T06:27:11
+================================================================================
+[2020-12-05 06:27:22,051] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:27:22,054] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:22:22.054797+00:00
+[2020-12-05 06:27:32,088] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:27:32,090] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:22:32.090948+00:00
+[2020-12-05 06:27:42,161] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:27:42,162] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:22:42.162795+00:00
+[2020-12-05 06:27:42,174] {dag_processing.py:1033} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/us_covid_daily_report_pipeline.py   4127  0.00s             0           0  1.01s           2020-12-05T06:27:42
+================================================================================
+[2020-12-05 06:27:52,231] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:27:52,233] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:22:52.233065+00:00
+[2020-12-05 06:28:02,264] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:28:02,266] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:23:02.266653+00:00
+[2020-12-05 06:28:12,330] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:28:12,333] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:23:12.333154+00:00
+[2020-12-05 06:28:12,346] {dag_processing.py:1033} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/us_covid_daily_report_pipeline.py   4277  0.00s             0           0  1.02s           2020-12-05T06:28:12
+================================================================================
+[2020-12-05 06:28:22,415] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:28:22,419] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:23:22.419462+00:00
+[2020-12-05 06:28:32,458] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:28:32,461] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:23:32.461893+00:00
+[2020-12-05 06:28:42,545] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:28:42,548] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:23:42.548580+00:00
+[2020-12-05 06:28:42,563] {dag_processing.py:1033} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/us_covid_daily_report_pipeline.py   4427  0.00s             0           0  1.02s           2020-12-05T06:28:42
+================================================================================
+[2020-12-05 06:28:52,628] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:28:52,632] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:23:52.632318+00:00
+[2020-12-05 06:29:02,681] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:29:02,683] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:24:02.683850+00:00
+[2020-12-05 06:29:12,766] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:29:12,769] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:24:12.769923+00:00
+[2020-12-05 06:29:12,783] {dag_processing.py:1033} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                              PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/us_covid_daily_report_pipeline.py   4577  0.00s             0           0  1.02s           2020-12-05T06:29:12
+================================================================================
+[2020-12-05 06:29:22,851] {dag_processing.py:1296} INFO - Finding 'running' jobs without a recent heartbeat
+[2020-12-05 06:29:22,856] {dag_processing.py:1300} INFO - Failing jobs without heartbeat after 2020-12-05 06:24:22.856266+00:00

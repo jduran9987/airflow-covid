@@ -5210,3 +5210,893 @@ SyntaxError: invalid syntax
 [2020-12-05 06:26:31,700] {logging_mixin.py:112} INFO - [2020-12-05 06:26:31,700] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
 [2020-12-05 06:26:31,713] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
 [2020-12-05 06:26:31,754] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:26:32,706] {scheduler_job.py:154} INFO - Started process (PID=3782) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:32,711] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:32,712] {logging_mixin.py:112} INFO - [2020-12-05 06:26:32,712] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:32,725] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:32,766] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:26:33,710] {scheduler_job.py:154} INFO - Started process (PID=3787) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:33,714] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:33,715] {logging_mixin.py:112} INFO - [2020-12-05 06:26:33,715] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:33,727] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:33,769] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:26:34,721] {scheduler_job.py:154} INFO - Started process (PID=3792) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:34,726] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:34,728] {logging_mixin.py:112} INFO - [2020-12-05 06:26:34,727] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:34,741] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:34,784] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.062 seconds
+[2020-12-05 06:26:35,729] {scheduler_job.py:154} INFO - Started process (PID=3797) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:35,734] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:35,735] {logging_mixin.py:112} INFO - [2020-12-05 06:26:35,735] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:35,748] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:35,789] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:26:36,735] {scheduler_job.py:154} INFO - Started process (PID=3802) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:36,740] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:36,741] {logging_mixin.py:112} INFO - [2020-12-05 06:26:36,741] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:36,753] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:36,796] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:26:37,744] {scheduler_job.py:154} INFO - Started process (PID=3807) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:37,749] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:37,751] {logging_mixin.py:112} INFO - [2020-12-05 06:26:37,750] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:37,764] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:37,806] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.062 seconds
+[2020-12-05 06:26:38,748] {scheduler_job.py:154} INFO - Started process (PID=3812) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:38,755] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:38,757] {logging_mixin.py:112} INFO - [2020-12-05 06:26:38,757] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:38,769] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:38,810] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.062 seconds
+[2020-12-05 06:26:39,754] {scheduler_job.py:154} INFO - Started process (PID=3817) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:39,758] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:39,760] {logging_mixin.py:112} INFO - [2020-12-05 06:26:39,760] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:39,773] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:39,817] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:26:40,762] {scheduler_job.py:154} INFO - Started process (PID=3822) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:40,766] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:40,767] {logging_mixin.py:112} INFO - [2020-12-05 06:26:40,767] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:40,781] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:40,822] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:26:41,781] {scheduler_job.py:154} INFO - Started process (PID=3827) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:41,784] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:41,785] {logging_mixin.py:112} INFO - [2020-12-05 06:26:41,785] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:41,798] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:41,838] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:26:42,795] {scheduler_job.py:154} INFO - Started process (PID=3832) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:42,800] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:42,801] {logging_mixin.py:112} INFO - [2020-12-05 06:26:42,801] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:42,815] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:42,857] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.062 seconds
+[2020-12-05 06:26:43,802] {scheduler_job.py:154} INFO - Started process (PID=3837) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:43,806] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:43,807] {logging_mixin.py:112} INFO - [2020-12-05 06:26:43,807] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:43,819] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:43,861] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:26:44,811] {scheduler_job.py:154} INFO - Started process (PID=3842) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:44,815] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:44,817] {logging_mixin.py:112} INFO - [2020-12-05 06:26:44,816] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:44,829] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:44,870] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:26:45,815] {scheduler_job.py:154} INFO - Started process (PID=3847) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:45,819] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:45,820] {logging_mixin.py:112} INFO - [2020-12-05 06:26:45,820] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:45,832] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:45,872] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:26:46,827] {scheduler_job.py:154} INFO - Started process (PID=3852) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:46,832] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:46,833] {logging_mixin.py:112} INFO - [2020-12-05 06:26:46,833] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:46,847] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:46,887] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:26:47,834] {scheduler_job.py:154} INFO - Started process (PID=3857) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:47,839] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:47,840] {logging_mixin.py:112} INFO - [2020-12-05 06:26:47,840] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:47,854] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:47,895] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:26:48,843] {scheduler_job.py:154} INFO - Started process (PID=3862) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:48,848] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:48,849] {logging_mixin.py:112} INFO - [2020-12-05 06:26:48,849] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:48,862] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:48,902] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:26:49,854] {scheduler_job.py:154} INFO - Started process (PID=3867) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:49,859] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:49,860] {logging_mixin.py:112} INFO - [2020-12-05 06:26:49,860] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:49,873] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:49,914] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:26:50,856] {scheduler_job.py:154} INFO - Started process (PID=3872) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:50,860] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:50,861] {logging_mixin.py:112} INFO - [2020-12-05 06:26:50,861] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:50,872] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:50,915] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:26:51,872] {scheduler_job.py:154} INFO - Started process (PID=3877) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:51,877] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:51,878] {logging_mixin.py:112} INFO - [2020-12-05 06:26:51,878] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:51,891] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:51,932] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:26:52,885] {scheduler_job.py:154} INFO - Started process (PID=3882) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:52,891] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:52,892] {logging_mixin.py:112} INFO - [2020-12-05 06:26:52,892] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:52,906] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:52,949] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.064 seconds
+[2020-12-05 06:26:53,889] {scheduler_job.py:154} INFO - Started process (PID=3887) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:53,894] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:53,898] {logging_mixin.py:112} INFO - [2020-12-05 06:26:53,897] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:53,917] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:53,957] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.068 seconds
+[2020-12-05 06:26:54,898] {scheduler_job.py:154} INFO - Started process (PID=3892) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:54,902] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:54,903] {logging_mixin.py:112} INFO - [2020-12-05 06:26:54,903] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:54,916] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:54,957] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:26:55,908] {scheduler_job.py:154} INFO - Started process (PID=3897) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:55,912] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:55,913] {logging_mixin.py:112} INFO - [2020-12-05 06:26:55,913] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:55,927] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:55,969] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:26:56,914] {scheduler_job.py:154} INFO - Started process (PID=3902) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:56,919] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:56,920] {logging_mixin.py:112} INFO - [2020-12-05 06:26:56,920] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:56,933] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:56,975] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:26:57,920] {scheduler_job.py:154} INFO - Started process (PID=3907) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:57,924] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:57,925] {logging_mixin.py:112} INFO - [2020-12-05 06:26:57,925] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:57,937] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:57,979] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:26:58,931] {scheduler_job.py:154} INFO - Started process (PID=3912) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:58,936] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:58,937] {logging_mixin.py:112} INFO - [2020-12-05 06:26:58,937] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:58,951] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:58,993] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.062 seconds
+[2020-12-05 06:26:59,934] {scheduler_job.py:154} INFO - Started process (PID=3917) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:59,939] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:26:59,940] {logging_mixin.py:112} INFO - [2020-12-05 06:26:59,940] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:59,954] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:26:59,998] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.064 seconds
+[2020-12-05 06:27:00,906] {scheduler_job.py:154} INFO - Started process (PID=3922) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:00,910] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:00,912] {logging_mixin.py:112} INFO - [2020-12-05 06:27:00,911] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:00,924] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:00,965] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:27:01,926] {scheduler_job.py:154} INFO - Started process (PID=3927) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:01,936] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:01,937] {logging_mixin.py:112} INFO - [2020-12-05 06:27:01,937] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:01,953] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:01,997] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.071 seconds
+[2020-12-05 06:27:02,932] {scheduler_job.py:154} INFO - Started process (PID=3932) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:02,936] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:02,937] {logging_mixin.py:112} INFO - [2020-12-05 06:27:02,937] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:02,950] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:02,990] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:27:03,936] {scheduler_job.py:154} INFO - Started process (PID=3937) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:03,940] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:03,941] {logging_mixin.py:112} INFO - [2020-12-05 06:27:03,941] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:03,953] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:03,993] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:27:04,995] {scheduler_job.py:154} INFO - Started process (PID=3942) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:05,000] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:05,001] {logging_mixin.py:112} INFO - [2020-12-05 06:27:05,001] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:05,013] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:05,058] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:27:05,950] {scheduler_job.py:154} INFO - Started process (PID=3947) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:05,954] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:05,955] {logging_mixin.py:112} INFO - [2020-12-05 06:27:05,955] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:05,967] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:06,008] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:27:06,956] {scheduler_job.py:154} INFO - Started process (PID=3952) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:06,960] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:06,961] {logging_mixin.py:112} INFO - [2020-12-05 06:27:06,961] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:06,973] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:07,015] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:27:07,963] {scheduler_job.py:154} INFO - Started process (PID=3957) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:07,967] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:07,968] {logging_mixin.py:112} INFO - [2020-12-05 06:27:07,968] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:07,980] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:08,020] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:27:08,972] {scheduler_job.py:154} INFO - Started process (PID=3962) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:08,976] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:08,978] {logging_mixin.py:112} INFO - [2020-12-05 06:27:08,977] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:08,991] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:09,035] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.062 seconds
+[2020-12-05 06:27:09,979] {scheduler_job.py:154} INFO - Started process (PID=3967) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:09,983] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:09,984] {logging_mixin.py:112} INFO - [2020-12-05 06:27:09,983] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:09,996] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:10,037] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:27:10,981] {scheduler_job.py:154} INFO - Started process (PID=3972) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:10,985] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:10,987] {logging_mixin.py:112} INFO - [2020-12-05 06:27:10,987] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:11,000] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:11,047] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.065 seconds
+[2020-12-05 06:27:12,003] {scheduler_job.py:154} INFO - Started process (PID=3977) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:12,008] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:12,010] {logging_mixin.py:112} INFO - [2020-12-05 06:27:12,009] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:12,027] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:12,082] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.079 seconds
+[2020-12-05 06:27:13,010] {scheduler_job.py:154} INFO - Started process (PID=3982) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:13,014] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:13,015] {logging_mixin.py:112} INFO - [2020-12-05 06:27:13,015] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:13,028] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:13,070] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:27:14,017] {scheduler_job.py:154} INFO - Started process (PID=3987) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:14,021] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:14,022] {logging_mixin.py:112} INFO - [2020-12-05 06:27:14,021] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:14,033] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:14,075] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:27:15,025] {scheduler_job.py:154} INFO - Started process (PID=3992) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:15,029] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:15,030] {logging_mixin.py:112} INFO - [2020-12-05 06:27:15,030] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:15,042] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:15,084] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:27:16,028] {scheduler_job.py:154} INFO - Started process (PID=3997) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:16,032] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:16,033] {logging_mixin.py:112} INFO - [2020-12-05 06:27:16,033] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:16,045] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:16,087] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:27:17,040] {scheduler_job.py:154} INFO - Started process (PID=4002) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:17,044] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:17,046] {logging_mixin.py:112} INFO - [2020-12-05 06:27:17,045] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:17,058] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:17,102] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:27:18,040] {scheduler_job.py:154} INFO - Started process (PID=4007) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:18,044] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:18,046] {logging_mixin.py:112} INFO - [2020-12-05 06:27:18,045] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:18,057] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:18,099] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:27:19,049] {scheduler_job.py:154} INFO - Started process (PID=4012) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:19,053] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:19,054] {logging_mixin.py:112} INFO - [2020-12-05 06:27:19,054] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:19,065] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:19,109] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:27:20,059] {scheduler_job.py:154} INFO - Started process (PID=4017) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:20,063] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:20,065] {logging_mixin.py:112} INFO - [2020-12-05 06:27:20,065] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:20,078] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:20,119] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:27:21,065] {scheduler_job.py:154} INFO - Started process (PID=4022) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:21,069] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:21,070] {logging_mixin.py:112} INFO - [2020-12-05 06:27:21,070] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:21,083] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:21,124] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:27:22,081] {scheduler_job.py:154} INFO - Started process (PID=4027) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:22,085] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:22,086] {logging_mixin.py:112} INFO - [2020-12-05 06:27:22,086] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:22,099] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:22,140] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:27:23,085] {scheduler_job.py:154} INFO - Started process (PID=4032) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:23,089] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:23,090] {logging_mixin.py:112} INFO - [2020-12-05 06:27:23,090] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:23,102] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:23,143] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:27:24,090] {scheduler_job.py:154} INFO - Started process (PID=4037) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:24,095] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:24,096] {logging_mixin.py:112} INFO - [2020-12-05 06:27:24,096] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:24,108] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:24,166] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.075 seconds
+[2020-12-05 06:27:25,100] {scheduler_job.py:154} INFO - Started process (PID=4042) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:25,104] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:25,106] {logging_mixin.py:112} INFO - [2020-12-05 06:27:25,105] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:25,118] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:25,158] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:27:26,109] {scheduler_job.py:154} INFO - Started process (PID=4047) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:26,113] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:26,114] {logging_mixin.py:112} INFO - [2020-12-05 06:27:26,114] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:26,129] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:26,172] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:27:27,109] {scheduler_job.py:154} INFO - Started process (PID=4052) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:27,113] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:27,115] {logging_mixin.py:112} INFO - [2020-12-05 06:27:27,115] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:27,127] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:27,169] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:27:28,119] {scheduler_job.py:154} INFO - Started process (PID=4057) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:28,124] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:28,125] {logging_mixin.py:112} INFO - [2020-12-05 06:27:28,125] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:28,138] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:28,180] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:27:29,135] {scheduler_job.py:154} INFO - Started process (PID=4062) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:29,141] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:29,142] {logging_mixin.py:112} INFO - [2020-12-05 06:27:29,142] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:29,156] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:29,242] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.107 seconds
+[2020-12-05 06:27:30,132] {scheduler_job.py:154} INFO - Started process (PID=4067) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:30,137] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:30,138] {logging_mixin.py:112} INFO - [2020-12-05 06:27:30,138] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:30,153] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:30,196] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.064 seconds
+[2020-12-05 06:27:31,100] {scheduler_job.py:154} INFO - Started process (PID=4072) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:31,105] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:31,106] {logging_mixin.py:112} INFO - [2020-12-05 06:27:31,106] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:31,119] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:31,163] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:27:32,114] {scheduler_job.py:154} INFO - Started process (PID=4077) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:32,118] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:32,119] {logging_mixin.py:112} INFO - [2020-12-05 06:27:32,119] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:32,131] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:32,173] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:27:33,122] {scheduler_job.py:154} INFO - Started process (PID=4082) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:33,127] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:33,128] {logging_mixin.py:112} INFO - [2020-12-05 06:27:33,128] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:33,141] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:33,184] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.062 seconds
+[2020-12-05 06:27:34,135] {scheduler_job.py:154} INFO - Started process (PID=4087) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:34,143] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:34,146] {logging_mixin.py:112} INFO - [2020-12-05 06:27:34,145] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:34,167] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:34,252] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.116 seconds
+[2020-12-05 06:27:35,132] {scheduler_job.py:154} INFO - Started process (PID=4092) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:35,138] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:35,140] {logging_mixin.py:112} INFO - [2020-12-05 06:27:35,139] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:35,161] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:35,216] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.083 seconds
+[2020-12-05 06:27:36,142] {scheduler_job.py:154} INFO - Started process (PID=4097) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:36,146] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:36,148] {logging_mixin.py:112} INFO - [2020-12-05 06:27:36,147] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:36,161] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:36,201] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:27:37,150] {scheduler_job.py:154} INFO - Started process (PID=4102) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:37,155] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:37,156] {logging_mixin.py:112} INFO - [2020-12-05 06:27:37,156] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:37,169] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:37,212] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.062 seconds
+[2020-12-05 06:27:38,153] {scheduler_job.py:154} INFO - Started process (PID=4107) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:38,157] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:38,158] {logging_mixin.py:112} INFO - [2020-12-05 06:27:38,158] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:38,170] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:38,216] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:27:39,163] {scheduler_job.py:154} INFO - Started process (PID=4112) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:39,168] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:39,169] {logging_mixin.py:112} INFO - [2020-12-05 06:27:39,169] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:39,182] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:39,224] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:27:40,169] {scheduler_job.py:154} INFO - Started process (PID=4117) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:40,173] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:40,174] {logging_mixin.py:112} INFO - [2020-12-05 06:27:40,174] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:40,187] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:40,228] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:27:41,173] {scheduler_job.py:154} INFO - Started process (PID=4122) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:41,177] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:41,179] {logging_mixin.py:112} INFO - [2020-12-05 06:27:41,179] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:41,193] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:41,239] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.067 seconds
+[2020-12-05 06:27:42,186] {scheduler_job.py:154} INFO - Started process (PID=4127) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:42,190] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:42,192] {logging_mixin.py:112} INFO - [2020-12-05 06:27:42,191] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:42,203] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:42,256] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.070 seconds
+[2020-12-05 06:27:43,195] {scheduler_job.py:154} INFO - Started process (PID=4132) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:43,200] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:43,201] {logging_mixin.py:112} INFO - [2020-12-05 06:27:43,200] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:43,214] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:43,264] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.068 seconds
+[2020-12-05 06:27:44,200] {scheduler_job.py:154} INFO - Started process (PID=4137) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:44,204] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:44,206] {logging_mixin.py:112} INFO - [2020-12-05 06:27:44,205] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:44,219] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:44,269] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.068 seconds
+[2020-12-05 06:27:45,207] {scheduler_job.py:154} INFO - Started process (PID=4142) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:45,211] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:45,212] {logging_mixin.py:112} INFO - [2020-12-05 06:27:45,212] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:45,225] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:45,267] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:27:46,211] {scheduler_job.py:154} INFO - Started process (PID=4147) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:46,214] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:46,216] {logging_mixin.py:112} INFO - [2020-12-05 06:27:46,216] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:46,228] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:46,273] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:27:47,219] {scheduler_job.py:154} INFO - Started process (PID=4152) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:47,223] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:47,225] {logging_mixin.py:112} INFO - [2020-12-05 06:27:47,224] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:47,237] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:47,281] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:27:48,228] {scheduler_job.py:154} INFO - Started process (PID=4157) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:48,233] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:48,234] {logging_mixin.py:112} INFO - [2020-12-05 06:27:48,234] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:48,247] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:48,290] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.062 seconds
+[2020-12-05 06:27:49,228] {scheduler_job.py:154} INFO - Started process (PID=4162) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:49,233] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:49,234] {logging_mixin.py:112} INFO - [2020-12-05 06:27:49,234] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:49,247] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:49,290] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:27:50,237] {scheduler_job.py:154} INFO - Started process (PID=4167) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:50,241] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:50,242] {logging_mixin.py:112} INFO - [2020-12-05 06:27:50,242] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:50,255] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:50,295] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:27:51,245] {scheduler_job.py:154} INFO - Started process (PID=4172) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:51,249] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:51,250] {logging_mixin.py:112} INFO - [2020-12-05 06:27:51,250] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:51,263] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:51,306] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:27:52,256] {scheduler_job.py:154} INFO - Started process (PID=4177) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:52,260] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:52,262] {logging_mixin.py:112} INFO - [2020-12-05 06:27:52,261] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:52,282] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:52,328] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.073 seconds
+[2020-12-05 06:27:53,264] {scheduler_job.py:154} INFO - Started process (PID=4182) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:53,268] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:53,269] {logging_mixin.py:112} INFO - [2020-12-05 06:27:53,269] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:53,281] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:53,323] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:27:54,269] {scheduler_job.py:154} INFO - Started process (PID=4187) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:54,273] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:54,274] {logging_mixin.py:112} INFO - [2020-12-05 06:27:54,274] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:54,287] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:54,327] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:27:55,276] {scheduler_job.py:154} INFO - Started process (PID=4192) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:55,280] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:55,281] {logging_mixin.py:112} INFO - [2020-12-05 06:27:55,281] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:55,293] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:55,333] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:27:56,281] {scheduler_job.py:154} INFO - Started process (PID=4197) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:56,285] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:56,286] {logging_mixin.py:112} INFO - [2020-12-05 06:27:56,286] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:56,298] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:56,338] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:27:57,288] {scheduler_job.py:154} INFO - Started process (PID=4202) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:57,292] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:57,293] {logging_mixin.py:112} INFO - [2020-12-05 06:27:57,293] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:57,306] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:57,346] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:27:58,293] {scheduler_job.py:154} INFO - Started process (PID=4207) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:58,297] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:58,298] {logging_mixin.py:112} INFO - [2020-12-05 06:27:58,298] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:58,311] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:58,350] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:27:59,298] {scheduler_job.py:154} INFO - Started process (PID=4212) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:59,302] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:27:59,303] {logging_mixin.py:112} INFO - [2020-12-05 06:27:59,303] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:59,315] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:27:59,355] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:28:00,305] {scheduler_job.py:154} INFO - Started process (PID=4217) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:00,310] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:00,311] {logging_mixin.py:112} INFO - [2020-12-05 06:28:00,311] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:00,324] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:00,365] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:01,276] {scheduler_job.py:154} INFO - Started process (PID=4222) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:01,280] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:01,281] {logging_mixin.py:112} INFO - [2020-12-05 06:28:01,281] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:01,293] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:01,334] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:28:02,290] {scheduler_job.py:154} INFO - Started process (PID=4227) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:02,294] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:02,295] {logging_mixin.py:112} INFO - [2020-12-05 06:28:02,295] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:02,307] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:02,350] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:03,297] {scheduler_job.py:154} INFO - Started process (PID=4232) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:03,301] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:03,302] {logging_mixin.py:112} INFO - [2020-12-05 06:28:03,302] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:03,315] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:03,355] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:04,301] {scheduler_job.py:154} INFO - Started process (PID=4237) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:04,305] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:04,306] {logging_mixin.py:112} INFO - [2020-12-05 06:28:04,306] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:04,318] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:04,360] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:05,310] {scheduler_job.py:154} INFO - Started process (PID=4242) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:05,314] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:05,315] {logging_mixin.py:112} INFO - [2020-12-05 06:28:05,315] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:05,328] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:05,371] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:28:06,315] {scheduler_job.py:154} INFO - Started process (PID=4247) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:06,319] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:06,320] {logging_mixin.py:112} INFO - [2020-12-05 06:28:06,320] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:06,332] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:06,373] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:28:07,320] {scheduler_job.py:154} INFO - Started process (PID=4252) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:07,324] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:07,325] {logging_mixin.py:112} INFO - [2020-12-05 06:28:07,325] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:07,337] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:07,378] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:28:08,327] {scheduler_job.py:154} INFO - Started process (PID=4257) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:08,331] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:08,332] {logging_mixin.py:112} INFO - [2020-12-05 06:28:08,332] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:08,348] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:08,389] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:28:09,331] {scheduler_job.py:154} INFO - Started process (PID=4262) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:09,334] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:09,336] {logging_mixin.py:112} INFO - [2020-12-05 06:28:09,336] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:09,348] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:09,389] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:10,336] {scheduler_job.py:154} INFO - Started process (PID=4267) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:10,340] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:10,341] {logging_mixin.py:112} INFO - [2020-12-05 06:28:10,341] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:10,353] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:10,392] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.056 seconds
+[2020-12-05 06:28:11,344] {scheduler_job.py:154} INFO - Started process (PID=4272) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:11,348] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:11,349] {logging_mixin.py:112} INFO - [2020-12-05 06:28:11,349] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:11,362] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:11,404] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:12,357] {scheduler_job.py:154} INFO - Started process (PID=4277) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:12,361] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:12,363] {logging_mixin.py:112} INFO - [2020-12-05 06:28:12,362] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:12,376] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:12,426] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.069 seconds
+[2020-12-05 06:28:13,369] {scheduler_job.py:154} INFO - Started process (PID=4282) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:13,373] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:13,374] {logging_mixin.py:112} INFO - [2020-12-05 06:28:13,374] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:13,387] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:13,427] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:28:14,377] {scheduler_job.py:154} INFO - Started process (PID=4287) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:14,380] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:14,381] {logging_mixin.py:112} INFO - [2020-12-05 06:28:14,381] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:14,393] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:14,433] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:28:15,382] {scheduler_job.py:154} INFO - Started process (PID=4292) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:15,386] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:15,387] {logging_mixin.py:112} INFO - [2020-12-05 06:28:15,387] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:15,399] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:15,441] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:16,393] {scheduler_job.py:154} INFO - Started process (PID=4297) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:16,398] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:16,399] {logging_mixin.py:112} INFO - [2020-12-05 06:28:16,399] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:16,411] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:16,452] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:17,395] {scheduler_job.py:154} INFO - Started process (PID=4302) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:17,400] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:17,401] {logging_mixin.py:112} INFO - [2020-12-05 06:28:17,401] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:17,413] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:17,454] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:18,404] {scheduler_job.py:154} INFO - Started process (PID=4307) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:18,408] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:18,409] {logging_mixin.py:112} INFO - [2020-12-05 06:28:18,409] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:18,421] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:18,462] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:28:19,411] {scheduler_job.py:154} INFO - Started process (PID=4312) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:19,415] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:19,416] {logging_mixin.py:112} INFO - [2020-12-05 06:28:19,415] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:19,428] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:19,469] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:28:20,420] {scheduler_job.py:154} INFO - Started process (PID=4317) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:20,424] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:20,425] {logging_mixin.py:112} INFO - [2020-12-05 06:28:20,425] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:20,438] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:20,477] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:28:21,427] {scheduler_job.py:154} INFO - Started process (PID=4322) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:21,431] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:21,432] {logging_mixin.py:112} INFO - [2020-12-05 06:28:21,432] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:21,444] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:21,486] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:22,444] {scheduler_job.py:154} INFO - Started process (PID=4327) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:22,448] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:22,449] {logging_mixin.py:112} INFO - [2020-12-05 06:28:22,449] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:22,461] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:22,503] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:28:23,450] {scheduler_job.py:154} INFO - Started process (PID=4332) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:23,453] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:23,455] {logging_mixin.py:112} INFO - [2020-12-05 06:28:23,454] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:23,466] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:23,509] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:24,456] {scheduler_job.py:154} INFO - Started process (PID=4337) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:24,460] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:24,462] {logging_mixin.py:112} INFO - [2020-12-05 06:28:24,462] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:24,473] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:24,516] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:25,461] {scheduler_job.py:154} INFO - Started process (PID=4342) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:25,465] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:25,466] {logging_mixin.py:112} INFO - [2020-12-05 06:28:25,466] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:25,478] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:25,521] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:26,469] {scheduler_job.py:154} INFO - Started process (PID=4347) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:26,473] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:26,474] {logging_mixin.py:112} INFO - [2020-12-05 06:28:26,474] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:26,486] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:26,529] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:27,474] {scheduler_job.py:154} INFO - Started process (PID=4352) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:27,478] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:27,479] {logging_mixin.py:112} INFO - [2020-12-05 06:28:27,478] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:27,490] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:27,533] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:28,480] {scheduler_job.py:154} INFO - Started process (PID=4357) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:28,484] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:28,485] {logging_mixin.py:112} INFO - [2020-12-05 06:28:28,485] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:28,497] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:28,540] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:29,488] {scheduler_job.py:154} INFO - Started process (PID=4362) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:29,492] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:29,493] {logging_mixin.py:112} INFO - [2020-12-05 06:28:29,493] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:29,504] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:29,546] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:28:30,497] {scheduler_job.py:154} INFO - Started process (PID=4367) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:30,501] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:30,502] {logging_mixin.py:112} INFO - [2020-12-05 06:28:30,502] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:30,515] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:30,556] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:31,477] {scheduler_job.py:154} INFO - Started process (PID=4372) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:31,482] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:31,484] {logging_mixin.py:112} INFO - [2020-12-05 06:28:31,483] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:31,497] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:31,540] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:28:32,486] {scheduler_job.py:154} INFO - Started process (PID=4377) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:32,491] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:32,492] {logging_mixin.py:112} INFO - [2020-12-05 06:28:32,492] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:32,505] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:32,546] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:33,497] {scheduler_job.py:154} INFO - Started process (PID=4382) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:33,502] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:33,503] {logging_mixin.py:112} INFO - [2020-12-05 06:28:33,503] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:33,516] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:33,558] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:28:34,507] {scheduler_job.py:154} INFO - Started process (PID=4387) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:34,512] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:34,513] {logging_mixin.py:112} INFO - [2020-12-05 06:28:34,513] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:34,527] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:34,569] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:28:35,515] {scheduler_job.py:154} INFO - Started process (PID=4392) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:35,520] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:35,521] {logging_mixin.py:112} INFO - [2020-12-05 06:28:35,521] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:35,534] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:35,578] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:28:36,517] {scheduler_job.py:154} INFO - Started process (PID=4397) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:36,521] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:36,523] {logging_mixin.py:112} INFO - [2020-12-05 06:28:36,523] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:36,535] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:36,591] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.073 seconds
+[2020-12-05 06:28:37,529] {scheduler_job.py:154} INFO - Started process (PID=4402) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:37,534] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:37,535] {logging_mixin.py:112} INFO - [2020-12-05 06:28:37,535] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:37,548] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:37,591] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.062 seconds
+[2020-12-05 06:28:38,535] {scheduler_job.py:154} INFO - Started process (PID=4407) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:38,539] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:38,540] {logging_mixin.py:112} INFO - [2020-12-05 06:28:38,540] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:38,554] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:38,600] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.066 seconds
+[2020-12-05 06:28:39,540] {scheduler_job.py:154} INFO - Started process (PID=4412) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:39,544] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:39,545] {logging_mixin.py:112} INFO - [2020-12-05 06:28:39,545] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:39,557] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:39,599] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:40,551] {scheduler_job.py:154} INFO - Started process (PID=4417) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:40,556] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:40,557] {logging_mixin.py:112} INFO - [2020-12-05 06:28:40,557] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:40,571] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:40,614] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:28:41,558] {scheduler_job.py:154} INFO - Started process (PID=4422) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:41,563] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:41,564] {logging_mixin.py:112} INFO - [2020-12-05 06:28:41,564] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:41,577] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:41,619] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:42,574] {scheduler_job.py:154} INFO - Started process (PID=4427) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:42,578] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:42,579] {logging_mixin.py:112} INFO - [2020-12-05 06:28:42,579] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:42,592] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:42,632] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:28:43,588] {scheduler_job.py:154} INFO - Started process (PID=4432) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:43,593] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:43,594] {logging_mixin.py:112} INFO - [2020-12-05 06:28:43,594] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:43,608] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:43,657] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.069 seconds
+[2020-12-05 06:28:44,594] {scheduler_job.py:154} INFO - Started process (PID=4437) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:44,599] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:44,600] {logging_mixin.py:112} INFO - [2020-12-05 06:28:44,600] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:44,613] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:44,655] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:28:45,597] {scheduler_job.py:154} INFO - Started process (PID=4442) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:45,602] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:45,603] {logging_mixin.py:112} INFO - [2020-12-05 06:28:45,603] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:45,615] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:45,657] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:46,606] {scheduler_job.py:154} INFO - Started process (PID=4447) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:46,610] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:46,611] {logging_mixin.py:112} INFO - [2020-12-05 06:28:46,611] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:46,624] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:46,664] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:28:47,615] {scheduler_job.py:154} INFO - Started process (PID=4452) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:47,619] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:47,620] {logging_mixin.py:112} INFO - [2020-12-05 06:28:47,620] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:47,634] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:47,674] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:48,622] {scheduler_job.py:154} INFO - Started process (PID=4457) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:48,626] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:48,627] {logging_mixin.py:112} INFO - [2020-12-05 06:28:48,627] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:48,640] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:48,681] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:49,629] {scheduler_job.py:154} INFO - Started process (PID=4462) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:49,633] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:49,634] {logging_mixin.py:112} INFO - [2020-12-05 06:28:49,634] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:49,647] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:49,690] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:28:50,634] {scheduler_job.py:154} INFO - Started process (PID=4467) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:50,637] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:50,639] {logging_mixin.py:112} INFO - [2020-12-05 06:28:50,638] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:50,650] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:50,692] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:51,642] {scheduler_job.py:154} INFO - Started process (PID=4472) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:51,646] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:51,647] {logging_mixin.py:112} INFO - [2020-12-05 06:28:51,647] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:51,659] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:51,700] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:28:52,656] {scheduler_job.py:154} INFO - Started process (PID=4477) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:52,660] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:52,661] {logging_mixin.py:112} INFO - [2020-12-05 06:28:52,661] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:52,673] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:52,714] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:28:53,668] {scheduler_job.py:154} INFO - Started process (PID=4482) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:53,673] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:53,674] {logging_mixin.py:112} INFO - [2020-12-05 06:28:53,674] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:53,688] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:53,729] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:28:54,670] {scheduler_job.py:154} INFO - Started process (PID=4487) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:54,674] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:54,675] {logging_mixin.py:112} INFO - [2020-12-05 06:28:54,675] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:54,688] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:54,730] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:55,683] {scheduler_job.py:154} INFO - Started process (PID=4492) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:55,687] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:55,689] {logging_mixin.py:112} INFO - [2020-12-05 06:28:55,688] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:55,702] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:55,743] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:56,692] {scheduler_job.py:154} INFO - Started process (PID=4497) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:56,696] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:56,697] {logging_mixin.py:112} INFO - [2020-12-05 06:28:56,697] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:56,711] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:56,751] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:57,694] {scheduler_job.py:154} INFO - Started process (PID=4502) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:57,698] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:57,700] {logging_mixin.py:112} INFO - [2020-12-05 06:28:57,699] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:57,712] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:57,753] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:28:58,707] {scheduler_job.py:154} INFO - Started process (PID=4507) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:58,711] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:58,712] {logging_mixin.py:112} INFO - [2020-12-05 06:28:58,712] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:58,725] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:58,766] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:28:59,714] {scheduler_job.py:154} INFO - Started process (PID=4512) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:59,718] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:28:59,719] {logging_mixin.py:112} INFO - [2020-12-05 06:28:59,718] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:59,731] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:28:59,774] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:29:00,720] {scheduler_job.py:154} INFO - Started process (PID=4517) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:00,724] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:00,725] {logging_mixin.py:112} INFO - [2020-12-05 06:29:00,725] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:00,737] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:00,778] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:29:01,693] {scheduler_job.py:154} INFO - Started process (PID=4522) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:01,698] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:01,700] {logging_mixin.py:112} INFO - [2020-12-05 06:29:01,700] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:01,712] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:01,754] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:29:02,707] {scheduler_job.py:154} INFO - Started process (PID=4527) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:02,711] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:02,713] {logging_mixin.py:112} INFO - [2020-12-05 06:29:02,713] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:02,725] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:02,766] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:29:03,720] {scheduler_job.py:154} INFO - Started process (PID=4532) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:03,724] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:03,725] {logging_mixin.py:112} INFO - [2020-12-05 06:29:03,725] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:03,741] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:03,788] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.068 seconds
+[2020-12-05 06:29:04,726] {scheduler_job.py:154} INFO - Started process (PID=4537) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:04,730] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:04,731] {logging_mixin.py:112} INFO - [2020-12-05 06:29:04,731] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:04,744] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:04,785] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:29:05,734] {scheduler_job.py:154} INFO - Started process (PID=4542) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:05,738] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:05,739] {logging_mixin.py:112} INFO - [2020-12-05 06:29:05,739] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:05,752] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:05,793] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:29:06,742] {scheduler_job.py:154} INFO - Started process (PID=4547) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:06,747] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:06,748] {logging_mixin.py:112} INFO - [2020-12-05 06:29:06,747] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:06,760] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:06,800] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:29:07,750] {scheduler_job.py:154} INFO - Started process (PID=4552) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:07,754] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:07,755] {logging_mixin.py:112} INFO - [2020-12-05 06:29:07,755] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:07,768] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:07,810] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.060 seconds
+[2020-12-05 06:29:08,756] {scheduler_job.py:154} INFO - Started process (PID=4557) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:08,760] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:08,761] {logging_mixin.py:112} INFO - [2020-12-05 06:29:08,761] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:08,774] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:08,813] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:29:09,766] {scheduler_job.py:154} INFO - Started process (PID=4562) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:09,770] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:09,771] {logging_mixin.py:112} INFO - [2020-12-05 06:29:09,771] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:09,784] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:09,825] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:29:10,774] {scheduler_job.py:154} INFO - Started process (PID=4567) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:10,779] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:10,780] {logging_mixin.py:112} INFO - [2020-12-05 06:29:10,780] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:10,793] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:10,833] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:29:11,778] {scheduler_job.py:154} INFO - Started process (PID=4572) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:11,782] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:11,783] {logging_mixin.py:112} INFO - [2020-12-05 06:29:11,783] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:11,795] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:11,836] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:29:12,794] {scheduler_job.py:154} INFO - Started process (PID=4577) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:12,798] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:12,799] {logging_mixin.py:112} INFO - [2020-12-05 06:29:12,799] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:12,811] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:12,851] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:29:13,809] {scheduler_job.py:154} INFO - Started process (PID=4582) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:13,813] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:13,814] {logging_mixin.py:112} INFO - [2020-12-05 06:29:13,814] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:13,826] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:13,866] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:29:14,818] {scheduler_job.py:154} INFO - Started process (PID=4587) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:14,823] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:14,824] {logging_mixin.py:112} INFO - [2020-12-05 06:29:14,824] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:14,838] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:14,880] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:29:15,819] {scheduler_job.py:154} INFO - Started process (PID=4592) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:15,824] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:15,825] {logging_mixin.py:112} INFO - [2020-12-05 06:29:15,825] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:15,837] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:15,880] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:29:16,825] {scheduler_job.py:154} INFO - Started process (PID=4597) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:16,829] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:16,831] {logging_mixin.py:112} INFO - [2020-12-05 06:29:16,830] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:16,842] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:16,888] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.063 seconds
+[2020-12-05 06:29:17,837] {scheduler_job.py:154} INFO - Started process (PID=4602) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:17,841] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:17,843] {logging_mixin.py:112} INFO - [2020-12-05 06:29:17,843] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:17,859] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:17,907] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.070 seconds
+[2020-12-05 06:29:18,844] {scheduler_job.py:154} INFO - Started process (PID=4607) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:18,848] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:18,849] {logging_mixin.py:112} INFO - [2020-12-05 06:29:18,849] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:18,862] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:18,910] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.067 seconds
+[2020-12-05 06:29:19,850] {scheduler_job.py:154} INFO - Started process (PID=4612) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:19,855] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:19,856] {logging_mixin.py:112} INFO - [2020-12-05 06:29:19,856] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:19,869] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:19,911] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.061 seconds
+[2020-12-05 06:29:20,855] {scheduler_job.py:154} INFO - Started process (PID=4617) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:20,859] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:20,860] {logging_mixin.py:112} INFO - [2020-12-05 06:29:20,860] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:20,873] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:20,914] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:29:21,863] {scheduler_job.py:154} INFO - Started process (PID=4622) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:21,867] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:21,868] {logging_mixin.py:112} INFO - [2020-12-05 06:29:21,868] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:21,880] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:21,921] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:29:22,884] {scheduler_job.py:154} INFO - Started process (PID=4627) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:22,888] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:22,889] {logging_mixin.py:112} INFO - [2020-12-05 06:29:22,889] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:22,901] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:22,941] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:29:23,891] {scheduler_job.py:154} INFO - Started process (PID=4632) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:23,895] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:23,896] {logging_mixin.py:112} INFO - [2020-12-05 06:29:23,896] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:23,908] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:23,949] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:29:24,898] {scheduler_job.py:154} INFO - Started process (PID=4637) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:24,902] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:24,903] {logging_mixin.py:112} INFO - [2020-12-05 06:29:24,903] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:24,915] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:24,955] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:29:25,909] {scheduler_job.py:154} INFO - Started process (PID=4642) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:25,913] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:25,915] {logging_mixin.py:112} INFO - [2020-12-05 06:29:25,914] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:25,927] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:25,971] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.062 seconds
+[2020-12-05 06:29:26,918] {scheduler_job.py:154} INFO - Started process (PID=4647) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:26,922] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:26,923] {logging_mixin.py:112} INFO - [2020-12-05 06:29:26,923] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:26,937] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:26,977] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.059 seconds
+[2020-12-05 06:29:27,925] {scheduler_job.py:154} INFO - Started process (PID=4652) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:27,929] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:27,930] {logging_mixin.py:112} INFO - [2020-12-05 06:29:27,930] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:27,943] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:27,982] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:29:28,930] {scheduler_job.py:154} INFO - Started process (PID=4657) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:28,934] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:28,935] {logging_mixin.py:112} INFO - [2020-12-05 06:29:28,935] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:28,948] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:28,988] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.058 seconds
+[2020-12-05 06:29:29,938] {scheduler_job.py:154} INFO - Started process (PID=4662) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:29,942] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:29,943] {logging_mixin.py:112} INFO - [2020-12-05 06:29:29,943] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:29,956] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:29,995] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.057 seconds
+[2020-12-05 06:29:30,910] {scheduler_job.py:154} INFO - Started process (PID=4667) to work on /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:30,914] {scheduler_job.py:1562} INFO - Processing file /opt/airflow/dags/us_covid_daily_report_pipeline.py for tasks to queue
+[2020-12-05 06:29:30,916] {logging_mixin.py:112} INFO - [2020-12-05 06:29:30,916] {dagbag.py:396} INFO - Filling up the DagBag from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:30,928] {scheduler_job.py:1574} INFO - DAG(s) dict_keys(['us_covid_daily_report_pipeline']) retrieved from /opt/airflow/dags/us_covid_daily_report_pipeline.py
+[2020-12-05 06:29:30,977] {scheduler_job.py:162} INFO - Processing /opt/airflow/dags/us_covid_daily_report_pipeline.py took 0.067 seconds
