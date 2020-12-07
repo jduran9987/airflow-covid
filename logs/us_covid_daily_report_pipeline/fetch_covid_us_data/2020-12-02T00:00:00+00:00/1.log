@@ -1,0 +1,42 @@
+[2020-12-06 22:05:31,418] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: us_covid_daily_report_pipeline.fetch_covid_us_data 2020-12-02T00:00:00+00:00 [queued]>
+[2020-12-06 22:05:31,452] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: us_covid_daily_report_pipeline.fetch_covid_us_data 2020-12-02T00:00:00+00:00 [queued]>
+[2020-12-06 22:05:31,453] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-12-06 22:05:31,453] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-12-06 22:05:31,454] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-12-06 22:05:31,479] {taskinstance.py:900} INFO - Executing <Task(BashOperator): fetch_covid_us_data> on 2020-12-02T00:00:00+00:00
+[2020-12-06 22:05:31,483] {standard_task_runner.py:53} INFO - Started process 17350 to run task
+[2020-12-06 22:05:31,599] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: us_covid_daily_report_pipeline.fetch_covid_us_data 2020-12-02T00:00:00+00:00 [running]> b87086861777
+[2020-12-06 22:05:31,646] {bash_operator.py:82} INFO - Tmp dir root location: 
+ /tmp
+[2020-12-06 22:05:31,649] {bash_operator.py:105} INFO - Temporary script location: /tmp/airflowtmpufopic44/fetch_covid_us_dataq1srplce
+[2020-12-06 22:05:31,649] {bash_operator.py:115} INFO - Running command: curl -o /opt/airflow/data/20201202.json         --request GET 	    --url https://api.covidtracking.com/v1/us/20201202.json
+[2020-12-06 22:05:31,656] {bash_operator.py:122} INFO - Output:
+[2020-12-06 22:05:31,707] {bash_operator.py:126} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2020-12-06 22:05:31,708] {bash_operator.py:126} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2020-12-06 22:05:31,799] {bash_operator.py:126} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   624  100   624    0     0   6782      0 --:--:-- --:--:-- --:--:--  6782
+[2020-12-06 22:05:31,804] {bash_operator.py:130} INFO - Command exited with return code 0
+[2020-12-06 22:05:31,831] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=us_covid_daily_report_pipeline, task_id=fetch_covid_us_data, execution_date=20201202T000000, start_date=20201206T220531, end_date=20201206T220531
+[2020-12-06 22:05:41,365] {logging_mixin.py:112} INFO - [2020-12-06 22:05:41,364] {local_task_job.py:103} INFO - Task exited with return code 0
+[2020-12-06 22:50:19,513] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: us_covid_daily_report_pipeline.fetch_covid_us_data 2020-12-02T00:00:00+00:00 [queued]>
+[2020-12-06 22:50:19,568] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: us_covid_daily_report_pipeline.fetch_covid_us_data 2020-12-02T00:00:00+00:00 [queued]>
+[2020-12-06 22:50:19,573] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-12-06 22:50:19,574] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-12-06 22:50:19,575] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-12-06 22:50:19,622] {taskinstance.py:900} INFO - Executing <Task(BashOperator): fetch_covid_us_data> on 2020-12-02T00:00:00+00:00
+[2020-12-06 22:50:19,633] {standard_task_runner.py:53} INFO - Started process 5777 to run task
+[2020-12-06 22:50:19,808] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: us_covid_daily_report_pipeline.fetch_covid_us_data 2020-12-02T00:00:00+00:00 [running]> 0d17e5047b06
+[2020-12-06 22:50:19,918] {bash_operator.py:82} INFO - Tmp dir root location: 
+ /tmp
+[2020-12-06 22:50:19,923] {bash_operator.py:105} INFO - Temporary script location: /tmp/airflowtmpmor0rh5q/fetch_covid_us_data0uxwmi75
+[2020-12-06 22:50:19,925] {bash_operator.py:115} INFO - Running command: curl -o /opt/airflow/data/20201202.json         --request GET 	    --url https://api.covidtracking.com/v1/us/20201202.json
+[2020-12-06 22:50:19,940] {bash_operator.py:122} INFO - Output:
+[2020-12-06 22:50:19,976] {bash_operator.py:126} INFO -   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+[2020-12-06 22:50:19,977] {bash_operator.py:126} INFO -                                  Dload  Upload   Total   Spent    Left  Speed
+[2020-12-06 22:50:20,060] {bash_operator.py:126} INFO -   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   624  100   624    0     0   7518      0 --:--:-- --:--:-- --:--:--  7518
+[2020-12-06 22:50:20,063] {bash_operator.py:130} INFO - Command exited with return code 0
+[2020-12-06 22:50:20,103] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=us_covid_daily_report_pipeline, task_id=fetch_covid_us_data, execution_date=20201202T000000, start_date=20201206T225019, end_date=20201206T225020
+[2020-12-06 22:50:29,451] {logging_mixin.py:112} INFO - [2020-12-06 22:50:29,450] {local_task_job.py:103} INFO - Task exited with return code 0

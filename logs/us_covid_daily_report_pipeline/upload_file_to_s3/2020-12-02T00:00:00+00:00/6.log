@@ -1,0 +1,39 @@
+[2020-12-06 22:24:07,746] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: us_covid_daily_report_pipeline.upload_file_to_s3 2020-12-02T00:00:00+00:00 [queued]>
+[2020-12-06 22:24:07,798] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: us_covid_daily_report_pipeline.upload_file_to_s3 2020-12-02T00:00:00+00:00 [queued]>
+[2020-12-06 22:24:07,798] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-12-06 22:24:07,799] {taskinstance.py:880} INFO - Starting attempt 6 of 6
+[2020-12-06 22:24:07,799] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-12-06 22:24:07,809] {taskinstance.py:900} INFO - Executing <Task(PythonOperator): upload_file_to_s3> on 2020-12-02T00:00:00+00:00
+[2020-12-06 22:24:07,815] {standard_task_runner.py:53} INFO - Started process 22960 to run task
+[2020-12-06 22:24:07,911] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: us_covid_daily_report_pipeline.upload_file_to_s3 2020-12-02T00:00:00+00:00 [running]> b87086861777
+[2020-12-06 22:24:07,966] {taskinstance.py:1145} ERROR - 
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 983, in _run_raw_task
+    result = task_copy.execute(context=context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python_operator.py", line 113, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python_operator.py", line 118, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/us_covid_daily_report_pipeline.py", line 12, in upload_file_to_S3_with_hook
+    hook.load_file(filename, key, bucket_name)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/hooks/S3_hook.py", line 357, in load_file
+    if not replace and self.check_for_key(key, bucket_name):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/hooks/S3_hook.py", line 206, in check_for_key
+    self.get_conn().head_object(Bucket=bucket_name, Key=key)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/hooks/S3_hook.py", line 44, in get_conn
+    return self.get_client_type('s3')
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/contrib/hooks/aws_hook.py", line 176, in get_client_type
+    session, endpoint_url = self._get_credentials(region_name)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/contrib/hooks/aws_hook.py", line 106, in _get_credentials
+    aws_secret_access_key = connection_object.password
+  File "/home/airflow/.local/lib/python3.6/site-packages/sqlalchemy/orm/attributes.py", line 356, in __get__
+    retval = self.descriptor.__get__(instance, owner)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/connection.py", line 190, in get_password
+    return fernet.decrypt(bytes(self._password, 'utf-8')).decode()
+  File "/home/airflow/.local/lib/python3.6/site-packages/cryptography/fernet.py", line 171, in decrypt
+    raise InvalidToken
+cryptography.fernet.InvalidToken
+[2020-12-06 22:24:07,970] {taskinstance.py:1202} INFO - Marking task as FAILED.dag_id=us_covid_daily_report_pipeline, task_id=upload_file_to_s3, execution_date=20201202T000000, start_date=20201206T222407, end_date=20201206T222407
+[2020-12-06 22:24:17,707] {logging_mixin.py:112} INFO - [2020-12-06 22:24:17,706] {local_task_job.py:103} INFO - Task exited with return code 1

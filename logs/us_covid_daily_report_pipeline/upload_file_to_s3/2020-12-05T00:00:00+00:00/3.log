@@ -1,0 +1,25 @@
+[2020-12-06 23:05:34,333] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: us_covid_daily_report_pipeline.upload_file_to_s3 2020-12-05T00:00:00+00:00 [queued]>
+[2020-12-06 23:05:34,377] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: us_covid_daily_report_pipeline.upload_file_to_s3 2020-12-05T00:00:00+00:00 [queued]>
+[2020-12-06 23:05:34,378] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-12-06 23:05:34,378] {taskinstance.py:880} INFO - Starting attempt 3 of 3
+[2020-12-06 23:05:34,379] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-12-06 23:05:34,415] {taskinstance.py:900} INFO - Executing <Task(PythonOperator): upload_file_to_s3> on 2020-12-05T00:00:00+00:00
+[2020-12-06 23:05:34,419] {standard_task_runner.py:53} INFO - Started process 10486 to run task
+[2020-12-06 23:05:34,518] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: us_covid_daily_report_pipeline.upload_file_to_s3 2020-12-05T00:00:00+00:00 [running]> 0d17e5047b06
+[2020-12-06 23:05:34,787] {taskinstance.py:1145} ERROR - The key 20201205.json already exists.
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/taskinstance.py", line 983, in _run_raw_task
+    result = task_copy.execute(context=context)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python_operator.py", line 113, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/operators/python_operator.py", line 118, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/us_covid_daily_report_pipeline.py", line 12, in upload_file_to_S3_with_hook
+    hook.load_file(filename, key, bucket_name)
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/hooks/S3_hook.py", line 358, in load_file
+    raise ValueError("The key {key} already exists.".format(key=key))
+ValueError: The key 20201205.json already exists.
+[2020-12-06 23:05:34,790] {taskinstance.py:1202} INFO - Marking task as FAILED.dag_id=us_covid_daily_report_pipeline, task_id=upload_file_to_s3, execution_date=20201205T000000, start_date=20201206T230534, end_date=20201206T230534
+[2020-12-06 23:05:44,294] {logging_mixin.py:112} INFO - [2020-12-06 23:05:44,294] {local_task_job.py:103} INFO - Task exited with return code 1

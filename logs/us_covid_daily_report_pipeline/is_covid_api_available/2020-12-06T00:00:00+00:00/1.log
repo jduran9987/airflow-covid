@@ -1,0 +1,18 @@
+[2020-12-07 00:12:19,635] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: us_covid_daily_report_pipeline.is_covid_api_available 2020-12-06T00:00:00+00:00 [queued]>
+[2020-12-07 00:12:19,904] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: us_covid_daily_report_pipeline.is_covid_api_available 2020-12-06T00:00:00+00:00 [queued]>
+[2020-12-07 00:12:19,910] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-12-07 00:12:19,915] {taskinstance.py:880} INFO - Starting attempt 1 of 1
+[2020-12-07 00:12:19,920] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-12-07 00:12:20,132] {taskinstance.py:900} INFO - Executing <Task(HttpSensor): is_covid_api_available> on 2020-12-06T00:00:00+00:00
+[2020-12-07 00:12:20,171] {standard_task_runner.py:53} INFO - Started process 11301 to run task
+[2020-12-07 00:12:21,111] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: us_covid_daily_report_pipeline.is_covid_api_available 2020-12-06T00:00:00+00:00 [running]> 0d17e5047b06
+[2020-12-07 00:12:21,502] {http_sensor.py:77} INFO - Poking: v1/us/20201206.json
+[2020-12-07 00:12:21,632] {logging_mixin.py:112} INFO - [2020-12-07 00:12:21,627] {base_hook.py:87} INFO - Using connection to: id: covid_api. Host: https://api.covidtracking.com, Port: None, Schema: None, Login: None, Password: None, extra: None
+[2020-12-07 00:12:21,668] {logging_mixin.py:112} INFO - [2020-12-07 00:12:21,667] {http_hook.py:136} INFO - Sending 'GET' to url: https://api.covidtracking.com/v1/us/20201206.json
+[2020-12-07 00:12:26,858] {logging_mixin.py:112} WARNING - /home/airflow/.local/lib/python3.6/site-packages/urllib3/connectionpool.py:1004: InsecureRequestWarning: Unverified HTTPS request is being made to host 'api.covidtracking.com'. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+  InsecureRequestWarning,
+[2020-12-07 00:12:27,009] {base_sensor_operator.py:123} INFO - Success criteria met. Exiting.
+[2020-12-07 00:12:27,029] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=us_covid_daily_report_pipeline, task_id=is_covid_api_available, execution_date=20201206T000000, start_date=20201207T001219, end_date=20201207T001227
+[2020-12-07 00:12:30,411] {logging_mixin.py:112} INFO - [2020-12-07 00:12:30,411] {local_task_job.py:103} INFO - Task exited with return code 0
